@@ -1,0 +1,13 @@
+.Heading{
+    color: blue;
+    text-decoration: underline;
+    background-color: red;
+}
+
+body{
+    background-color: pink;
+}
+button{
+    background-color: blue;
+    color: white;
+}
